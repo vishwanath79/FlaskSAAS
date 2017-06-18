@@ -1,3 +1,3 @@
 DEBUG = True
 
-HELLO = 'Hello World?'
+SERVER_NAME = '0.0.0.0:8000'
